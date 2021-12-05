@@ -1,0 +1,10 @@
+﻿  소스.cpp
+C:\Users\UserK\Desktop\Donut\Donut\Donut\소스.cpp(10,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\UserK\Desktop\Donut\Donut\Donut\소스.cpp(10,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\UserK\Desktop\Donut\Donut\Donut\소스.cpp(18,28): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\UserK\Desktop\Donut\Donut\Donut\소스.cpp(53,42): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\UserK\Desktop\Donut\Donut\Donut\소스.cpp(55,43): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\UserK\Desktop\Donut\Donut\Donut\소스.cpp(57,44): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\UserK\Desktop\Donut\Donut\Donut\소스.cpp(77,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\UserK\Desktop\Donut\Donut\Donut\소스.cpp(77,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Donut.vcxproj -> C:\Users\UserK\Desktop\Donut\Donut\x64\Debug\Donut.exe
